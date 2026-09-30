@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=JiSeon's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
 
-<p align="center">
-  <a href="https://github.com/milk0621"><img src="https://komarev.com/ghpvc/?username=milk0621&label=Profile%20views&color=0e75b6&style=flat" /></a>
-</p>
-
-<br>
 <div align='center'>💻디자인에서 출발해, 문제 해결로 확장해나가는 백엔드 개발자 김지선입니다. <br />
 기능이 "돌아가는 것"을 넘어, 동시 요청이나 예외 상황에서도 "틀리지 않는 것"을 고민하며 개발합니다.</div>
 <br>
