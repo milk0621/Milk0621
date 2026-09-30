@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=JiSeon's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
 
+<p align="center">
+  <a href="https://github.com/milk0621"><img src="https://komarev.com/ghpvc/?username=milk0621&label=Profile%20views&color=0e75b6&style=flat" /></a>
+</p>
+
 <br>
 <div align='center'>💻디자인에서 출발해, 문제 해결로 확장해나가는 개발자 김지선입니다. <br />
 프로젝트 뿐만아니라 하루하루 공부하고 있는 내용들을 기록하고 있습니다.</div>
@@ -48,34 +52,36 @@
 
 <br />
 
-## 📚 Tech Stack
-
-<p>
-  <b>Backend</b><br />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring%20security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA%20%2F%20MyBatis-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-<p>
-  <b>Database</b><br />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-<p>
-  <b>Frontend</b><br />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
-</p>
-<p>
-  <b>Infra / DevOps</b><br />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
+<br>
+
+<h3 align="center">📊 GitHub Stats 📊</h3>
+<p align="center">
+  <a href="https://github.com/milk0621"><img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milk0621&theme=nord_bright" /></a>
+  <a href="https://github.com/milk0621"><img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milk0621&theme=nord_bright" /></a>
+  <br>
+  <a href="https://github.com/milk0621"><img src="https://streak-stats.demolab.com?user=milk0621&theme=nord&hide_border=true" /></a>
+</p>
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
