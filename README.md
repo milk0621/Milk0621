@@ -5,8 +5,8 @@
 </p>
 
 <br>
-<div align='center'>💻디자인에서 출발해, 문제 해결로 확장해나가는 개발자 김지선입니다. <br />
-프로젝트 뿐만아니라 하루하루 공부하고 있는 내용들을 기록하고 있습니다.</div>
+<div align='center'>💻디자인에서 출발해, 문제 해결로 확장해나가는 백엔드 개발자 김지선입니다. <br />
+기능이 "돌아가는 것"을 넘어, 동시 요청이나 예외 상황에서도 "틀리지 않는 것"을 고민하며 개발합니다.</div>
 <br>
 <div align='center'> ✉Email : <a href="mailto:wltjs5360@naver.com">wltjs5360@naver.com</a></div>
 <div align='center'> 🔗Notion : <a href="https://www.notion.so/1ee6731d268a81988510e9b04de46ea1?source=copy_link">노션링크</a></div>
