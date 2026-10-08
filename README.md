@@ -18,8 +18,8 @@
 컨퍼런스 탐색부터 세션 신청·결제·QR 입장·후기까지 한 곳에서 처리하는 **MSA 기반** 플랫폼<br>
 동시 신청에도 정원을 넘지 않는 좌석 홀드와 대기열 자동 승격 · PortOne 결제 · Gemini AI 요약
 
-**담당** · 회원 인증(JWT + Refresh Token HttpOnly 쿠키) · 주최자 이메일 인증·국세청 사업자 상태조회<br>
-Gemini 요약 · 소셜 로그인 · 프론트엔드 · Docker·EC2 배포
+**담당** · 회원 인증(JWT + Refresh Token Rotation·재사용 탐지) · Gateway 구조 설계 · 국세청 사업자 상태조회<br>
+주최자 이메일 인증 · Gemini 요약 · 소셜 로그인 · 프론트엔드 · Docker·EC2 배포
 
 `Spring Boot` `Spring Cloud Gateway` `Spring Security` `JPA` `MySQL` `React` `Docker` `GitHub Actions` `AWS EC2`
 
@@ -41,7 +41,7 @@ PortOne 빌링키 정기결제 구독 · 결제 재조회 검증 · 웹훅 멱�
 #### [Barotago](https://github.com/milk0621/barotago) · 지하철 정보 서비스
 `2025.10 ~` · 개인 프로젝트
 
-역 정보·열차 시간표·실시간 도착정보를 카카오 지도와 함께 보여주는 서비스<br>
+노선도에서 역을 고르면 역 정보·편의시설·열차 시간표를 카카오 지도와 함께 보여주는 서비스<br>
 공공데이터 Python 수집·적재 파이프라인 · 서울 열린데이터 실시간 도착 API 연동 · 급행 열차 구분 로직
 
 `Spring Boot` `MyBatis` `MySQL` `React` `Python` `Kakao Map API`
