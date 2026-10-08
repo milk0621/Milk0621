@@ -19,7 +19,7 @@
 동시 신청에도 정원을 넘지 않는 좌석 홀드와 대기열 자동 승격 · PortOne 결제 · Gemini AI 요약
 
 **담당** · 회원 인증(JWT + Refresh Token HttpOnly 쿠키) · 주최자 이메일 인증·국세청 사업자 상태조회<br>
-소셜 로그인 · 프론트엔드 · Docker·EC2 배포
+Gemini 요약 · 소셜 로그인 · 프론트엔드 · Docker·EC2 배포
 
 `Spring Boot` `Spring Cloud Gateway` `Spring Security` `JPA` `MySQL` `React` `Docker` `GitHub Actions` `AWS EC2`
 
@@ -57,7 +57,7 @@ PortOne 빌링키 정기결제 구독 · 결제 재조회 검증 · 웹훅 멱�
 **[News Stock](https://github.com/milk0621/project-news-stock)** · 금융 뉴스 감성 분석(KorFinBERT)과 LSTM 기반 KOSPI 예측 시각화<br>
 `JSP` `Python` `TensorFlow` `WebSocket`
 
-**[Jeonbuk Tour](https://github.com/milk0621/project-jeonbuk-tour)** · 리뷰 키워드 기반 관광지 추천과 거리 기반 여행 코스 자동 생성<br>
+**[Jeonbuk Tour](https://github.com/milk0621/project-jeonbuk-tour)** · 리뷰 · 소개글 TF-IDF 유사도 기반 추천 <br>
 `Flask` `Python` `MySQL` `Kakao Map`
 
 </div>
